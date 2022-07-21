@@ -1,0 +1,104 @@
+.body{
+    display: inline-block;
+    background: rgb(0, 0, 0);
+    max-width: 1600px;
+    padding: auto;
+    margin:flex; 
+    align-items: ;
+}
+
+.photo {
+    border-radius: 125px;
+    max-width: 20%;
+    max-height: 18%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+
+
+          
+ }
+ .fita {
+    display: flex;
+    max-width: 100%;
+    max-height: 100% ;
+    text-align: center;
+ }
+
+#title {
+    font-family: Verdana;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    margin-top: 250px;
+    margin-right: 100px;
+    margin-left: 20px;
+    font-size: 25px;
+ 
+}
+    .Fonte1 {
+        color: rgb(255, 255, 255) ;
+        display: flex;
+        text-align: right;
+        margin-top: 50px;
+        margin-right: 50px;
+        margin-left: 200px;
+        
+    }
+
+.subtitles {
+    font-family: Verdana;
+    text-transform: uppercase;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    size: 20px;
+    font-style:normal;
+    margin-top: 5px;
+    margin-left: 250px;
+    
+
+}
+
+    
+
+.flex{
+    display: flex ;
+    align-items: stretch;
+    border-radius: 10px;
+    background-color: rgb(99, 97, 97);
+    font-size: 20px;
+    font-family: verdana ;
+    color:rgb(255, 255, 255); 
+    text-align: center;
+    margin: 0 auto;
+ 
+
+
+
+}
+.item{
+    background-color: rgb(209, 209, 209);
+    padding: 0%;
+    margin: 5px;
+    font-size: 12px;
+    font-family: Verdana;
+    font-style: italic ;
+    text-align: left;
+    list-style-type: none ;
+    border-radius: 10px;
+    
+} 
+    
+         .incon_size{
+            border-radius: 100px;
+            max-width: 15%;
+            max-height: 15%;
+                          
+    }
+
+
+.Fonte2 {
+    color: rgb(0, 0, 0) 
+ }
+
+ 
+

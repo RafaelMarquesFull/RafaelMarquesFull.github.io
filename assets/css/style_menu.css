@@ -5,7 +5,7 @@
 }
 ul {
     margin: 0;
-    padding: 10px; 0;
+    padding-left : 62%; 0;
     
 }
  
@@ -17,10 +17,10 @@ li {
     
 }
 li a {
-    background: rgb(18, 61, 61);
+    background: #0D2B2B;
     padding: 5px 10px; 
     margin: 5px;;
-    border: 1px solid rgb(255, 255, 255); 
+    border: 0px solid rgb(255, 255, 255); 
     text-decoration: none;
     color:rgb(255, 255, 255);
     font-style: oblique;
